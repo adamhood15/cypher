@@ -35,10 +35,11 @@ Needs:
 - View tickets
 - Find attractions
 - View events
-- Receive updates
+- Park Notifications
 - Order food and beverage
 - View Cabanas
 - Book cabanas
+- Event Calendar
 
 ---
 
@@ -121,6 +122,7 @@ Push notifications for:
 - Weather
 - Ride closures
 - Event reminders
+- Special Offers and Discounts
 
 ---
 
@@ -157,6 +159,7 @@ Not included in MVP.
 - AI assistant
 - Family tracking
 - Ride wait times
+- Purchase Tickets
 
 ---
 

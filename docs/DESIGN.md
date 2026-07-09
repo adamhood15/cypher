@@ -2,7 +2,7 @@
 
 ## Overall Feel
 
-The app should feel like a premium modern resort app rather than a theme park website.
+The app should feel like a clean, modern, amusement park app that prioritizes simplicity and ease of use.
 
 Keywords:
 
@@ -102,11 +102,20 @@ Large
 
 Easy to scan
 
+font-family: 'Aloevera-Display', Arial Black, Arial, sans-serif !important;
+
+or
+
+font-family: "Guttery", 'aloevera-display', sans-serif !important;
+
 Body
 
 Clean sans-serif
 
 16px minimum
+
+Font Family: 'Aloevera-Display', Arial Black, Arial, sans-serif !important;
+
 
 Buttons
 
@@ -115,6 +124,9 @@ Bold
 Upper/lowercase
 
 Rounded
+
+Font Family: 'Aloevera-Display', Arial Black, Arial, sans-serif !important;
+
 
 ---
 
@@ -152,6 +164,8 @@ Weather
 
 Notifications
 
+See cards.png and cards-2.png for reference
+
 ---
 
 # Icons
@@ -173,6 +187,8 @@ Avoid illustrations.
 Large hero images.
 
 Rounded corners.
+
+Use images in the references folder, read image names for context
 
 ---
 
